@@ -24,6 +24,10 @@ class NoteDAO {
         notes.removeAt(position)
     }
 
+    fun clear(){
+        notes.clear()
+    }
+
     companion object {
         private val notes = mutableListOf<Note>()
     }
