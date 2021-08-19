@@ -63,6 +63,7 @@ class NoteDAOTest {
         )
         dao.save(fakeNote)
 
+
         val noteUpdated = fakeNote.apply {
             title = "aaaa"
             description = "bbbb"

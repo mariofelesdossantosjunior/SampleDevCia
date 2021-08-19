@@ -1,4 +1,4 @@
-package br.com.alura.ceep.ui.adapter
+package com.mario.sampledevcia.ui.adapter
 
 import android.content.Context
 import android.view.LayoutInflater

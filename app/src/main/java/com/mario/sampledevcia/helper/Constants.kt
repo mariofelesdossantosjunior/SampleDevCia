@@ -1,3 +1,3 @@
-package com.mario.sampledevcia.ui
+package com.mario.sampledevcia.helper
 
 const val POSITION_NOTE = "positionNote"

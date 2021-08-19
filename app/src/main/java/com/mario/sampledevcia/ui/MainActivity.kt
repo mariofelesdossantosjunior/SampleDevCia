@@ -3,9 +3,10 @@ package com.mario.sampledevcia.ui
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import br.com.alura.ceep.ui.adapter.NoteAdapter
+import com.mario.sampledevcia.ui.adapter.NoteAdapter
 import com.mario.sampledevcia.R
 import com.mario.sampledevcia.dao.NoteDAO
+import com.mario.sampledevcia.helper.POSITION_NOTE
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

@@ -7,6 +7,7 @@ import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.mario.sampledevcia.R
 import com.mario.sampledevcia.dao.NoteDAO
+import com.mario.sampledevcia.helper.POSITION_NOTE
 import kotlinx.android.synthetic.main.activity_details_note.*
 
 class DetailNoteActivity : AppCompatActivity() {

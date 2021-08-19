@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.mario.sampledevcia.R
 import com.mario.sampledevcia.dao.NoteDAO
 import com.mario.sampledevcia.domain.Note
+import com.mario.sampledevcia.helper.POSITION_NOTE
 import kotlinx.android.synthetic.main.activity_form_note.*
 
 class FormNoteActivity : AppCompatActivity() {
